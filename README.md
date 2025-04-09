@@ -35,7 +35,7 @@ MusicWave is a web application that allows users to discover music, explore arti
 
 1. Clone the repository
    ```
-   git clone <repository-url>
+   git clone https://github.com/CypherKingdom/MusicWebsite.git
    cd MusicProject
    ```
 
